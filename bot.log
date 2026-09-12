@@ -1,0 +1,19 @@
+2026-09-12 20:34:26,810 INFO giftbot: Starting bot...
+2026-09-12 20:34:27,728 INFO giftbot: BOT_USERNAME = @Giftvocmabot
+2026-09-12 20:34:28,228 WARNING giftbot: Не удалось удалить сообщение chat_id=906824039: Telegram server says - Bad Request: message to delete not found
+2026-09-12 20:34:29,338 WARNING giftbot: Не удалось проверить подписку для 906824039: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:36:06,155 WARNING giftbot: Не удалось проверить подписку для 366556108: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:36:49,658 WARNING giftbot: Не удалось проверить подписку для 366556108: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:42:49,767 INFO giftbot: Starting bot...
+2026-09-12 20:42:50,879 INFO giftbot: BOT_USERNAME = @Giftvocmabot
+2026-09-12 20:43:43,536 WARNING giftbot: Не удалось проверить подписку для 366556108: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:47:24,480 WARNING giftbot: Не удалось проверить подписку для 8727723180: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:47:27,776 WARNING giftbot: Не удалось проверить подписку для 8727723180: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:48:57,669 WARNING giftbot: Не удалось обновить username для 366556108: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Software caused connection abort]
+2026-09-12 20:48:58,059 WARNING giftbot: Не удалось обновить username для 906824039: HTTP Client says - ClientOSError: [Errno 103] Software caused connection abort
+2026-09-12 20:49:11,384 WARNING giftbot: Не удалось обновить username для 8727723180: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Software caused connection abort]
+2026-09-12 20:51:22,691 WARNING giftbot: Не удалось обновить username для 366556108: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Software caused connection abort]
+2026-09-12 20:54:44,106 INFO giftbot: Starting bot...
+2026-09-12 20:54:46,236 INFO giftbot: BOT_USERNAME = @Giftvocmabot
+2026-09-12 20:54:50,148 WARNING giftbot: Не удалось проверить подписку для 906824039: Telegram server says - Bad Request: member list is inaccessible
+2026-09-12 20:56:03,270 WARNING giftbot: Не удалось проверить подписку для 8727723180: Telegram server says - Bad Request: member list is inaccessible

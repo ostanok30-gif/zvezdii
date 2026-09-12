@@ -1,0 +1,5 @@
+# GiftsBearBot — зависимости
+# Всё остальное, что использует бот (asyncio, sqlite3, csv, io, logging, time, datetime),
+# входит в стандартную библиотеку Python и отдельной установки не требует.
+
+aiogram>=3.17.0
